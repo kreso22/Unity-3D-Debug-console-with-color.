@@ -1,3 +1,4 @@
+![Alt text](screenshot.png "Color in Console")
 
       This is a proof of concept rather than a full scale solution
 		
