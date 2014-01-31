@@ -19,3 +19,14 @@
 
 		debug.log(debug.cat.YOURCATEGORY, "Debug message, same as previous but will also print gameObject containing this call, it's name as well as highlight it from console+click)", 1, gameObject);
 
+
+![Alt text](debug_window.png "Color in Console")
+
+You can now sort through debug output.
+
+Sort by importance level (you set level within debug call itself, for each message).
+
+Check/uncheck categories.
+
+And you can mark an object sa 'important' (just drag&drop), which will mark all debug messages in the same hierarchy as 'important'. Meaning, gameObject be marked as important: show up as red&bolded text.
+To clear important object field click the small red tick box.
