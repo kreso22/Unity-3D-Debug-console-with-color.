@@ -28,5 +28,5 @@ Sort by importance level (you set level within debug call itself, for each messa
 
 Check/uncheck categories.
 
-And you can mark an object sa 'important' (just drag&drop), which will mark all debug messages in the same hierarchy as 'important'. Meaning, gameObject be marked as important: show up as red&bolded text.
+And you can mark an object sa 'important' (just drag&drop). This will make all messages from that gameObject and all objects within same GameObject hierarchy of that object - come up as important (red & bolded text).
 To clear important object field click the small red tick box.
